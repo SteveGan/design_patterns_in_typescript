@@ -2,6 +2,36 @@
 
 Here are the implementations of the following design patterns in TypeScript:
 
+Reading check
+
+### Creational ###
+- [X] Singleton
+- [ ] Abstract Factory
+- [X] Factory Method
+- [ ] Builder
+- [ ] Prototype
+### Structural Patterns
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+### Behavioral Patterns
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
+
+
 ### Creational ###
 
 * [Singleton](https://github.com/torokmark/design_patterns_in_typescript/tree/master/singleton)
